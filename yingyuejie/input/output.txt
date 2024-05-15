@@ -1,0 +1,3673 @@
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099539.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+@media screen and (min-width: 1200px){ .moe-detail-box{padding-left:0; padding-right: 0} }
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=55714; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:11.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;text-align:general;vertical-align:bottom;border:none;white-space:nowrap;} .TRS_PreAppend .xl106{color:black;font-size:9.0pt;text-align:left;vertical-align:middle;border-top:1.0pt solid black;border-right:.5pt solid black;border-bottom:.5pt solid black;border-left:none;background:white;white-space:normal;} .TRS_PreAppend .xl107{color:black;font-size:9.0pt;text-align:center;vertical-align:middle;border-top:1.0pt solid black;border-right:.5pt solid black;border-bottom:.5pt solid black;border-left:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl108{color:black;font-size:9.0pt;text-align:center;vertical-align:middle;border-top:1.0pt solid black;border-right:none;border-bottom:.5pt solid black;border-left:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl109{font-size:9.0pt;text-align:right;vertical-align:middle;border:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl110{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border:.5pt solid black;white-space:normal;} .TRS_PreAppend .xl111{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border-top:.5pt solid black;border-right:none;border-bottom:.5pt solid black;border-left:.5pt solid black;white-space:normal;} .TRS_PreAppend .xl112{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border-top:.5pt solid black;border-right:.5pt solid black;border-bottom:1.0pt solid black;border-left:.5pt solid black;white-space:normal;} .TRS_PreAppend .xl113{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border-top:.5pt solid black;border-right:none;border-bottom:1.0pt solid black;border-left:.5pt solid black;white-space:normal;} .TRS_PreAppend .xl114{color:black;font-size:9.0pt;text-align:left;vertical-align:middle;border-top:.5pt solid black;border-right:.5pt solid black;border-bottom:.5pt solid black;border-left:none;white-space:normal;} .TRS_PreAppend .xl115{font-size:9.0pt;text-align:right;vertical-align:middle;border:.5pt solid black;white-space:normal;} .TRS_PreAppend .xl116{font-size:9.0pt;text-align:right;vertical-align:middle;border-top:.5pt solid black;border-right:none;border-bottom:.5pt solid black;border-left:.5pt solid black;white-space:normal;} .TRS_PreAppend .xl117{color:black;font-size:9.0pt;text-align:left;vertical-align:middle;border-top:.5pt solid black;border-right:.5pt solid black;border-bottom:1.0pt solid black;border-left:none;white-space:normal;} .TRS_PreAppend .xl118{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;background:white;white-space:normal;} .TRS_PreAppend .xl119{color:windowtext;font-size:9.0pt;text-align:left;vertical-align:middle;white-space:normal;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;display:none;}
+单位：人
+unit:person
+毕业生数
+Graduates
+招生数
+Entrants
+在校生数
+Enrolment
+一、高等教育 Higher Education
+1.研究生 Postgraduates
+862165
+1242479
+3653613
+博 士 Doctor´s Degree
+82320
+138951
+556065
+硕 士 Master´s Degree
+779845
+1103528
+3097548
+2.普通本科 Undergraduates
+4715658
+4679358
+19656436
+3.职业本专科 Vocational Undergraduate
+4956907
+5466063
+16937739
+本 科 Normal Courses
+9229
+76302
+228740
+专 科 Short-cycle Courses
+4947678
+5389761
+16708999
+4.成人本专科 Undergraduate in Adult HEIs
+3300668
+4400196
+9336481
+本 科 Normal Courses
+1732128
+2446444
+5277598
+专 科 Short-cycle Courses
+1568540
+1953752
+4058883
+5.网络本专科生 Web-based Undergraduates
+2618888
+2808900
+8446500
+本 科 Normal Courses
+1048500
+1289961
+3419642
+专 科 Short-cycle Courses
+1570388
+1518939
+5026858
+二、高中阶段教育 High school level education
+12233753
+14323258
+40531650
+1.普通高中 Regular Senior Secondary Schools
+8241028
+9475448
+27138747
+完全中学 Combined Secondary Schools
+2505450
+2805115
+8106884
+高级中学 Regular High Schools
+5291660
+6027036
+17342205
+十二年一贯制学校 12-Year Schools
+419793
+611519
+1609055
+附设普通高中班 Subsidiary Regular Senior Secondary School Class
+24125
+31778
+80603
+2.中等职业教育 Secondary Vocational Education
+3992725
+4847810
+13392903
+中等职业学校 Secondary Vocational Schools
+3643436
+4544517
+12424538
+附设中职班 Subsidiary Secondary vocational Class
+349289
+303293
+968365
+三、义务教育阶段教育 Compulsory Education
+33645363
+34327685
+158526559
+1.初中阶段 Junior Secondary Education
+16239236
+17313811
+51205965
+初级中学 Regular Junior Secondary Schools
+10931031
+11701021
+34305497
+九年一贯制学校 9-Year Schools
+2782794
+3081503
+9141608
+十二年一贯制学校 12-Year Schools
+534715
+478043
+1588544
+完全中学 Combined Secondary Schools
+1949906
+2023524
+6073135
+职业初中 Vocational Junior Secondary Schools
+345
+228
+771
+附设普通初中班 Junior Sec. Classes Attached
+40399
+29492
+96354
+附设职业初中班 Vocational Junior Sec. Classes Attached
+46
+0
+56
+2.小学阶段 Primary Schools
+17406127
+17013874
+107320594
+小学 Primary Schools
+14524425
+14227134
+89894656
+九年一贯制学校 9-Year Schools
+2202222
+2027725
+13015991
+十二年一贯制学校 12-Year Schools
+295704
+229406
+1627608
+小学教学点（不计校数） ExternalTeaching Sites
+303084
+515265
+2607423
+附设小学班 Subsidiary Primary School Class
+80692
+14344
+174916
+四、特殊教育 Special Education
+158703
+146257
+918502
+#特殊教育学校 Special Education Schools
+50581
+47646
+335659
+五、学前教育 Pre-school Education
+16783163
+13604348
+46275486
+幼儿园 Kindergartens
+15513861
+12764113
+44015367
+附设幼儿班 Subsidiary Toddler Class
+1269302
+840235
+2260119
+六、专门学校 Specialized Schools
+4295
+5291
+8109
+七、成人中小学 Adult Primary and Secondary Schools
+6348
+10052
+14777
+注：1..完全中学、九年一贯制学校、十二年一贯制学校和附设教学班的学生数按教育层次分别计入对应教育阶段的学生数中；
+2.特殊教育学生数中包括特殊教育学校、附设特教班、随班就读和送教上门等各类形式学生。
+Note:1.Numbers of students in combined secondary schools,9-year schools,12-year schools are classified by educational levels;
+2.Special education covers various forms including special education schools, attached special education classes, regular classes and ‘home delivery’ teaching.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20240110_1099539", "html","moe-detail-page-set");
+来源：教育部收藏
+（责任编辑：曹建）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var WINW = $(window).width(); var scW = isM ? '710px' : (WINW-212); var tblCont = $('.statistics-container'); scW = tblCont.width() > WINW ? (WINW-30) : scW; tblCont.css({'max-width':scW,'padding-bottom': '20px'}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038067.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+@media screen and (min-width: 1200px){ .moe-detail-box{padding-left:0; padding-right: 0} }
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=55040; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:11.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;text-align:general;vertical-align:bottom;border:none;white-space:nowrap;} .TRS_PreAppend .xl100{color:black;font-size:9.0pt;text-align:left;vertical-align:middle;border-top:.5pt solid black;border-right:.5pt solid black;border-bottom:.5pt solid black;border-left:none;background:white;white-space:normal;} .TRS_PreAppend .xl101{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl102{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border-top:.5pt solid black;border-right:none;border-bottom:.5pt solid black;border-left:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl103{color:windowtext;font-size:9.0pt;text-align:left;vertical-align:middle;white-space:normal;} .TRS_PreAppend .xl104{color:black;font-size:9.0pt;text-align:left;vertical-align:middle;border-top:none;border-right:.5pt solid black;border-bottom:.5pt solid black;border-left:none;background:white;white-space:normal;} .TRS_PreAppend .xl105{color:black;font-size:9.0pt;text-align:center;vertical-align:middle;border-top:none;border-right:.5pt solid black;border-bottom:.5pt solid black;border-left:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl106{color:black;font-size:9.0pt;text-align:center;vertical-align:middle;border-top:none;border-right:none;border-bottom:.5pt solid black;border-left:.5pt solid black;background:white;white-space:normal;} .TRS_PreAppend .xl107{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;background:white;white-space:normal;} .TRS_PreAppend .xl108{color:black;font-size:9.0pt;text-align:right;vertical-align:middle;border-top:none;border-right:none;border-bottom:.5pt solid windowtext;border-left:none;background:white;white-space:normal;} .TRS_PreAppend .xl109{border-top:none;border-right:none;border-bottom:.5pt solid windowtext;border-left:none;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;display:none;}
+单位：人
+unit:person
+毕业生数
+Graduates
+招生数
+Entrants
+在校生数
+Enrolment
+一、高等教育 Higher Education
+1.研究生 Postgraduates
+772761
+1176526
+3332373
+博 士 Doctor´s Degree
+72019
+125823
+509453
+硕 士 Master´s Degree
+700742
+1050703
+2822920
+2.普通本科 Undergraduates
+4280970
+4445969
+18931044
+3.职业本专科 Vocational Undergraduate
+3984094
+5567182
+16030263
+本 科 Normal Courses
+0
+41381
+129297
+专 科 Short-cycle Courses
+3984094
+5525801
+15900966
+4.成人本专科 Undergraduate in Adult HEIs
+2779485
+3785288
+8326521
+本 科 Normal Courses
+1420887
+2042982
+4591098
+专 科 Short-cycle Courses
+1358598
+1742306
+3735423
+5.网络本专科生 Web-based Undergraduates
+2590593
+2839192
+8739006
+本 科 Normal Courses
+898773
+1186772
+3328548
+专 科 Short-cycle Courses
+1691820
+1652420
+5410458
+二、高中阶段教育 High school level education
+11957266
+14552751
+39764220
+1.普通高中 Regular Senior Secondary Schools
+7802267
+9049538
+26050291
+完全中学 Combined Secondary Schools
+2397452
+2749108
+7965364
+高级中学 Regular High Schools
+4998715
+5689530
+16464641
+十二年一贯制学校 12-Year Schools
+382330
+578148
+1532731
+附设普通高中班 Subsidiary Regular Senior Secondary School Class
+23770
+32752
+87555
+2.中等职业教育 Secondary Vocational Education
+3753709
+4889890
+13118146
+中等职业学校 Secondary vocational Education
+3407194
+4543445
+12111730
+附设中职班 Subsidiary Secondary vocational Class
+346515
+346445
+1006416
+三、义务教育阶段教育 Compulsory Education
+33051790
+34880187
+157983722
+1.初中阶段 Junior Secondary Education
+15871485
+17054376
+50184373
+初级中学 Regular Junior Secondary Schools
+10807177
+11277586
+33434886
+九年一贯制学校 9-Year Schools
+2624001
+3100495
+8869279
+十二年一贯制学校 12-Year Schools
+499971
+578829
+1695322
+完全中学 Combined Secondary Schools
+1895733
+2062584
+6071342
+职业初中 Vocational Junior Secondary Schools
+770
+238
+724
+附设普通初中班 Junior Sec. Classes Attached
+43767
+34625
+112724
+附设职业初中班 Vocational Junior Sec. Classes Attached
+66
+19
+96
+2.小学阶段 Primary Schools
+17180305
+17825811
+107799349
+小学 Primary Schools
+14377087
+14743480
+89820477
+九年一贯制学校 9-Year Schools
+2119817
+2147139
+13028261
+十二年一贯制学校 12-Year Schools
+281751
+273160
+1712099
+小学教学点（不计校数） ExternalTeaching Sites
+311632
+642486
+3034528
+附设小学班 Subsidiary Primary School Class
+90018
+19546
+203984
+四、特殊教育 Special Education Schools
+145899
+149062
+919767
+#特殊教育学校 Special Education Schools
+47799
+48509
+330375
+五、学前教育 Pre-school Education Institutions
+17147905
+15262381
+48052063
+幼儿园 Kindergartens
+15617234
+14176978
+45391336
+附设幼儿班 Subsidiary Toddler Class
+1530671
+1085403
+2660727
+六、专门学校 Specialized Schools
+4244
+5746
+7160
+七、成人中小学 Adult Primary and Secondary Schools
+5133
+7274
+11611
+注：1..完全中学、九年一贯制学校、十二年一贯制学校和附设教学班的学生数按教育层次分别计入对应教育阶段的学生数中；
+2.特殊教育学生数中包括特殊教育学校、附设特教班、随班就读和送教上门等各类形式学生。
+Note:1.Numbers of students in combined secondary schools,9-year schools,12-year schools are classified by educational levels;
+2.Special education covers various forms including special education schools, attached special education classes, regular classes and
+‘home delivery’ teaching.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20230104_1038067", "html","moe-detail-page-set");
+来源：教育部收藏
+（责任编辑：曹建）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var WINW = $(window).width(); var scW = isM ? '710px' : (WINW-212); var tblCont = $('.statistics-container'); scW = tblCont.width() > WINW ? (WINW-30) : scW; tblCont.css({'max-width':scW,'padding-bottom': '20px'}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556364.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=53669; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+单位：人
+unit:person
+毕业生数
+Graduates
+招生数
+Entrants
+在校生数
+Enrolment
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+728627
+1106551
+3139598
+博   士 Doctor´s Degree
+66176
+116047
+466549
+硕   士 Master´s Degree
+662451
+990504
+2673049
+（二）普通本专科 Undergraduate in Regular HEIs
+7971991
+9674518
+32852948
+本    科 Normal Courses
+4205097
+4431154
+18257460
+专    科 Short-cycle Courses
+3766894
+5243364
+14595488
+（三）成人本专科 Undergraduate in Adult HEIs
+2469562
+3637630
+7772942
+本    科 Normal Courses
+1226385
+1896292
+4051025
+专    科 Short-cycle Courses
+1243177
+1741338
+3721917
+（四）网络本专科生 Web-based Undergraduates
+2722497
+2779128
+8464464
+本    科 Normal Courses
+866120
+1072248
+3111899
+专    科 Short-cycle Courses
+1856377
+1706880
+5352565
+二、中等教育  Secondary Education
+28159684
+31532006
+90820113
+（一）高中阶段教育  Senior Secondary Education
+12753535
+15211042
+41630230
+1. 高中  Senior Secondary Schools
+7904823
+8764435
+24996545
+普通高中  Regular Senior Secondary Schools
+7865315
+8764435
+24944529
+完全中学  Combined Secondary Schools
+2402204
+2653613
+7583547
+高级中学  Regular High Schools
+5095039
+5590528
+16012155
+十二年一贯制学校  12-Year Schools
+368072
+520294
+1348827
+成人高中 Adult High Schools
+39508
+—
+52016
+2. 中等职业教育  Secondary Vocational Education
+4848712
+6446607
+16633685
+普通中专  Regular Specialized Secondary Schools
+2162310
+2726906
+7354168
+成人中专  Adult Specialized Secondary Schools
+430267
+535320
+1126747
+职业高中  Vocational High Schools
+1242065
+1583830
+4197464
+技工学校  Skilled Workers Schools
+1014070
+1600551
+3955306
+（二）初中阶段教育  Junior Secondary Education
+15406149
+16320964
+49189883
+1. 初中  Junior Secondary Schools
+15352918
+16320964
+49140893
+初级中学  Regular Junior Secondary Schools
+10630682
+10892448
+33196223
+九年一贯制学校  9-Year Schools
+2417894
+2875328
+8385205
+十二年一贯制学校  12-Year Schools
+456211
+541731
+1583723
+完全中学  Combined Secondary Schools
+1847224
+2010847
+5973572
+职业初中  Vocational Junior Secondary Schools
+907
+610
+2170
+2. 成人初中  Adult Junior Secondary Schools
+53231
+—
+48990
+三、初等教育 Primary Education
+16653674
+18080902
+107508746
+（一）普通小学 Regular Primary Schools
+16403201
+18080902
+107253532
+小学 Primary Schools
+13899664
+14948277
+89633285
+九年一贯制学校 9-Year Schools
+1955019
+2083092
+12554065
+十二年一贯制学校 12-Year Schools
+257463
+259976
+1589249
+小学教学点（不计校数） ExternalTeaching Sites
+291055
+789557
+3476933
+（二）成人小学 Adult Primary Schools
+250473
+—
+255214
+其中：扫盲班 of Which: Literacy Classes
+122869
+—
+134545
+四、工读学校 Correctional Work-Study Schools
+4031
+3036
+6012
+五、特殊教育 Special Education Schools
+121411
+149046
+880800
+其中：特殊教育学校 of Which: Special Education Schools
+40158
+48564
+320775
+六、学前教育 Pre-school Education Institutions
+17794338
+17914049
+48182634
+其中：幼儿园 of Which: Kindergartens
+16087404
+16445629
+45158985
+注：1.九年一贯制学校、十二年一贯制学校和完全中学的学生数按教育层次分别计入对应教育阶段的学生数中；
+2.特殊教育涵盖特殊教育学校、附设特教班、随班就读和送教上门等各类形式；
+Note:1.Numbers of students in 9-year schools,12-year schools , combined secondary schools are classified by educational levels;
+2.Special education covers various forms including special education schools, attached special education classes, regular classes and ‘home delivery’ teaching;
+左右滑动表格查看
+createContPageHTML(1, 0, "t20210831_556364", "html","moe-detail-page-set");
+来源：教育部收藏
+（责任编辑：姚振）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/qg/202006/t20200611_464803.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=52059; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend .font5{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font6{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font7{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font8{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font9{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font10{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font11{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font12{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font13{color:black;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font14{color:black;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font15{color:windowtext;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font16{color:windowtext;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;text-align:general;vertical-align:middle;border:none;white-space:nowrap;} .TRS_PreAppend .xl88{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl89{color:windowtext;font-size:12.0pt;font-family:宋体;} .TRS_PreAppend .xl90{color:windowtext;font-size:12.0pt;font-family:宋体;text-align:center;} .TRS_PreAppend .xl91{color:windowtext;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl92{color:windowtext;text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl93{color:windowtext;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl94{border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl95{color:windowtext;font-family:宋体;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl96{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl97{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:none;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl98{color:windowtext;font-weight:700;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl99{color:windowtext;font-weight:700;text-align:right;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;background:white;} .TRS_PreAppend .xl100{color:windowtext;font-weight:700;text-align:right;border-top:.5pt solid windowtext;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;background:white;} .TRS_PreAppend .xl101{font-weight:700;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl102{font-weight:700;border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl103{color:windowtext;vertical-align:bottom;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl104{color:windowtext;font-weight:700;vertical-align:bottom;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl105{color:windowtext;font-weight:700;vertical-align:bottom;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl106{font-size:9.0pt;font-family:宋体;background:white;white-space:normal;} .TRS_PreAppend .xl107{font-family:宋体;} .TRS_PreAppend .xl108{font-size:9.0pt;vertical-align:top;background:white;white-space:normal;} .TRS_PreAppend .xl109{font-size:9.0pt;text-align:left;vertical-align:top;background:white;} .TRS_PreAppend .xl110{color:windowtext;font-family:宋体;text-align:right;} .TRS_PreAppend .xl111{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl112{border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl113{font-size:9.0pt;font-family:宋体;border-top:1.0pt solid windowtext;border-right:none;border-bottom:none;border-left:none;background:white;white-space:normal;} .TRS_PreAppend .xl114{font-size:9.0pt;font-family:宋体;background:white;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;display:none;}
+单位：人
+unit:person
+毕业生数
+
+Graduates
+招生数
+
+Entrants
+在校生数
+
+Enrolment
+一、高等教育
+Higher Education
+（一）研究生
+Postgraduates
+639666
+916503
+2863712
+博
+士
+Doctor´s Degree
+62578
+105169
+424182
+硕
+士
+Master´s Degree
+577088
+811334
+2439530
+（二）普通本专科
+Undergraduate in Regular HEIs
+7585298
+9149026
+30315262
+本
+科
+Normal Courses
+3947157
+4312880
+17508204
+专
+科
+Short-cycle Courses
+3638141
+4836146
+12807058
+（三）成人本专科
+Undergraduate in Adult HEIs
+2131369
+3022088
+6685603
+本
+科
+Normal Courses
+1016733
+1505520
+3413174
+专
+科
+Short-cycle Courses
+1114636
+1516568
+3272429
+（四）网络本专科生
+Web-based Undergraduates
+2323128
+2885458
+8578345
+本
+科
+Normal Courses
+801508
+1006897
+2941610
+专
+科
+Short-cycle Courses
+1521620
+1878561
+5636735
+二、中等教育
+Secondary Education
+27509216
+30787093
+88323364
+（一）高中阶段教育
+Senior Secondary Education
+12861417
+14398606
+39949000
+1.
+高中
+Senior Secondary Schools
+7926743
+8394949
+24184287
+普通高中
+Regular Senior Secondary Schools
+7892494
+8394949
+24143050
+完全中学
+Combined Secondary Schools
+2409074
+2559319
+7335411
+高级中学
+Regular High Schools
+5150544
+5375734
+15608338
+十二年一贯制学校
+12-Year Schools
+332876
+459896
+1199301
+成人高中
+Adult High Schools
+34249
+—
+41237
+2.
+中等职业教育
+Secondary Vocational Education
+4934674
+6003657
+15764713
+普通中专
+Regular Specialized Secondary Schools
+2199648
+2555022
+7035872
+成人中专
+Adult Specialized Secondary Schools
+481851
+497336
+1068475
+职业高中
+Vocational High Schools
+1268928
+1521763
+4057316
+技工学校
+Skilled Workers Schools
+984247
+1429536
+3603050
+（二）初中阶段教育
+Junior Secondary Education
+14647799
+16388487
+48374364
+1.
+初中
+Junior Secondary Schools
+14540936
+16388487
+48271362
+初级中学
+Regular Junior Secondary Schools
+10186259
+11055730
+33007690
+九年一贯制学校
+9-Year Schools
+2175281
+2777295
+7893721
+十二年一贯制学校
+12-Year Schools
+387692
+513312
+1447591
+完全中学
+Combined Secondary Schools
+1791018
+2041308
+5917913
+职业初中
+Vocational Junior Secondary Schools
+686
+842
+4447
+2.
+成人初中
+Adult Junior Secondary Schools
+106863
+—
+103002
+三、初等教育
+Primary Education
+16930561
+18690411
+106034691
+（一）普通小学
+Regular Primary Schools
+16479006
+18690411
+105612358
+小学
+Primary Schools
+14041282
+15402692
+88416810
+九年一贯制学校
+9-Year Schools
+1892686
+2095409
+11919389
+十二年一贯制学校
+12-Year Schools
+231509
+253371
+1434082
+小学教学点（不计校数）
+ExternalTeaching Sites
+313529
+938939
+3842077
+（二）成人小学
+Adult Primary Schools
+451555
+—
+422333
+其中：扫盲班
+of Which: Literacy Classes
+160851
+—
+168640
+四、工读学校
+Correctional Work-Study Schools
+3449
+3792
+6488
+五、特殊教育
+Special Education Schools
+97587
+144211
+794612
+六、学前教育
+Pre-school Education Institutions
+17651692
+16882293
+47138810
+注：1.2017年起，研究生招生、在校生指标内涵发生变化。招生包含全日制和非全日制研究生；在校生、授予学位数包含全日制、非全日制研究生和
+在职人员攻读硕士学位学生。下同；
+2.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中；
+3.特殊教育学生数中包括义务教育阶段随班就读、其他学校附设特教班和送教上门的学生。
+Note:1.From 2017, the indicators meaning of entrants and enrollment of postgraduate students have changed. The number of entrants includes full-time and
+part-time postgraduate students. The number of Master's and Doctor's Degree awarded includes full-time, part-time postgraduate students and on-the-job
+students. Same as below;
+2.Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level;
+3.Number of special students enrolled in special education schools,attached special education classes,regular classes and "home delivery" teaching.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20200611_464803", "html","moe-detail-page-set");
+来源：教育部收藏
+（责任编辑：谢沂楠）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/qg/201908/t20190812_394239.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=51059; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend .font5{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font6{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font7{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font8{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font9{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font10{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font11{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font12{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font13{color:black;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font14{color:black;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font15{color:windowtext;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font16{color:windowtext;font-size:10.0pt;font-weight:700;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;text-align:general;vertical-align:middle;border:none;white-space:nowrap;} .TRS_PreAppend .xl85{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl86{color:windowtext;font-size:12.0pt;font-family:宋体;} .TRS_PreAppend .xl87{color:windowtext;font-size:12.0pt;font-family:宋体;text-align:center;} .TRS_PreAppend .xl88{color:windowtext;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl89{color:windowtext;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl90{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl91{color:windowtext;text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl92{color:windowtext;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl93{border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl94{color:windowtext;font-family:宋体;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl95{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl96{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:none;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl97{color:windowtext;font-weight:700;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl98{color:windowtext;font-weight:700;text-align:right;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;background:white;} .TRS_PreAppend .xl99{color:windowtext;font-weight:700;text-align:right;border-top:.5pt solid windowtext;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;background:white;} .TRS_PreAppend .xl100{font-weight:700;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl101{color:windowtext;font-weight:700;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl102{color:windowtext;font-weight:700;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl103{font-weight:700;border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl104{color:windowtext;font-weight:700;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl105{color:windowtext;font-weight:700;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl106{font-size:9.0pt;text-align:left;vertical-align:top;background:white;} .TRS_PreAppend .xl107{color:windowtext;font-family:宋体;text-align:right;} .TRS_PreAppend .xl108{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl109{border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl110{font-size:9.0pt;vertical-align:top;background:white;white-space:normal;} .TRS_PreAppend .xl111{font-size:9.0pt;font-family:宋体;border-top:1.0pt solid windowtext;border-right:none;border-bottom:none;border-left:none;background:white;white-space:normal;} .TRS_PreAppend .xl112{font-size:9.0pt;font-family:宋体;background:white;} .TRS_PreAppend .xl113{font-size:9.0pt;font-family:宋体;background:white;white-space:normal;} .TRS_PreAppend .xl114{font-family:宋体;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;display:none;}
+单位：人
+unit:person
+毕业生数
+
+Graduates
+招生数
+
+Entrants
+在校生数
+
+Enrolment
+一、高等教育
+Higher Education
+（一）研究生
+Postgraduates
+604368
+857966
+2731257
+博
+士
+Doctor´s Degree
+60724
+95502
+389518
+硕
+士
+Master´s Degree
+543644
+762464
+2341739
+（二）普通本专科
+Undergraduate in Regular HEIs
+7533087
+7909931
+28310348
+本
+科
+Normal Courses
+3868358
+4221590
+16973343
+专
+科
+Short-cycle Courses
+3664729
+3688341
+11337005
+（三）成人本专科
+Undergraduate in Adult HEIs
+2177408
+2733119
+5909878
+本
+科
+Normal Courses
+995851
+1400380
+2971134
+专
+科
+Short-cycle Courses
+1181557
+1332739
+2938744
+（四）网络本专科生
+Web-based Undergraduates
+1949189
+3209064
+8256553
+本
+科
+Normal Courses
+681915
+1044360
+2825757
+专
+科
+Short-cycle Courses
+1267274
+2164704
+5430796
+二、中等教育
+Secondary Education
+26532791
+29523486
+86027102
+（一）高中阶段教育
+Senior Secondary Education
+12701215
+13497555
+39346687
+1.
+高中
+Senior Secondary Schools
+7828452
+7927063
+23794053
+普通高中
+Regular Senior Secondary Schools
+7792443
+7927063
+23753709
+完全中学
+Combined Secondary Schools
+2388090
+2415580
+7246165
+高级中学
+Regular High Schools
+5115500
+5129919
+15449469
+十二年一贯制学校
+12-Year Schools
+288853
+381564
+1058075
+成人高中
+Adult High Schools
+36009
+—
+40344
+2.
+中等职业教育
+Secondary Vocational Education
+4872763
+5570492
+15552634
+普通中专
+Regular Specialized Secondary Schools
+2185850
+2419344
+6994205
+成人中专
+Adult Specialized Secondary Schools
+510987
+462495
+1131250
+职业高中
+Vocational High Schools
+1272933
+1403185
+4010825
+技工学校
+Skilled Workers Schools
+902993
+1285468
+3416354
+（二）初中阶段教育
+Junior Secondary Education
+13831576
+16025931
+46680415
+1.
+初中
+Junior Secondary Schools
+13677686
+16025931
+46525854
+初级中学
+Regular Junior Secondary Schools
+9682552
+10978173
+32249484
+九年一贯制学校
+9-Year Schools
+1966137
+2597780
+7256642
+十二年一贯制学校
+12-Year Schools
+327926
+457910
+1262258
+完全中学
+Combined Secondary Schools
+1700160
+1991459
+5755420
+职业初中
+Vocational Junior Secondary Schools
+911
+609
+2050
+2.
+成人初中
+Adult Junior Secondary Schools
+153890
+—
+154561
+三、初等教育
+Primary Education
+16888395
+18672970
+104125004
+（一）普通小学
+Regular Primary Schools
+16164927
+18672970
+103392541
+小学
+Primary Schools
+13806568
+15352863
+86690133
+九年一贯制学校
+9-Year Schools
+1798155
+1999810
+11140679
+十二年一贯制学校
+12-Year Schools
+198109
+233698
+1265005
+小学教学点
+ExternalTeaching Sites
+362095
+1086599
+4296724
+（二）成人小学
+Adult Primary Schools
+723468
+—
+732463
+其中：扫盲班
+of Which: Literacy Classes
+210127
+—
+229141
+四、工读学校
+Correctional Work-Study Schools
+2716
+3235
+6818
+五、特殊教育
+Special Education Schools
+81017
+123514
+665942
+六、学前教育
+Pre-school Education Institutions
+17906336
+18639134
+46564204
+注：1.2017年起，研究生招生、在校生指标内涵发生变化。招生包含全日制和非全日制研究生；在校生、授予学位数包含全日制、非全日制研究生和
+在职人员攻读硕士学位学生。下同；
+2.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中；
+3.特殊教育学生数中包括含特殊教育学校、附设特教班、随班就读和送教上门学生。
+Note:1.From 2017, the indicators meaning of entrants and enrollment of postgraduate students have changed. The number of entrants includes full-time and
+part-time postgraduate students. The number of Master's and Doctor's Degree awarded includes full-time, part-time postgraduate students and on-the-job
+students. Same as below;
+2.Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level;
+3.Number of special students enrolled in special education schools, attached special education classes, regular classes and ‘’home delivery‘’ teaching.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20190812_394239", "html","moe-detail-page-set");
+来源：教育部收藏
+（责任编辑：姚振）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/qg/201808/t20180808_344698.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=2147443531; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend .font5{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font6{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font7{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font8{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font9{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font10{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font11{color:black;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font12{color:black;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;text-align:general;vertical-align:middle;border:none;white-space:nowrap;} .TRS_PreAppend .xl79{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl80{color:windowtext;font-size:12.0pt;font-family:宋体;} .TRS_PreAppend .xl81{color:windowtext;font-size:12.0pt;font-family:宋体;text-align:center;} .TRS_PreAppend .xl82{color:windowtext;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl83{color:windowtext;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl84{color:windowtext;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl85{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl86{color:windowtext;text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl87{color:windowtext;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl88{border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl89{color:windowtext;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl90{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl91{color:windowtext;font-family:宋体;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl92{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl93{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:none;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl94{border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl95{color:windowtext;text-align:right;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;background:white;} .TRS_PreAppend .xl96{color:windowtext;text-align:right;border-top:.5pt solid windowtext;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;background:white;} .TRS_PreAppend .xl97{color:windowtext;font-family:宋体;text-align:right;} .TRS_PreAppend .xl98{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl99{border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl100{font-size:9.0pt;text-align:left;background:white;} .TRS_PreAppend .xl101{font-size:9.0pt;font-family:宋体;text-align:left;background:white;white-space:normal;} .TRS_PreAppend .xl102{font-size:9.0pt;text-align:left;vertical-align:top;background:white;white-space:normal;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;display:none;}
+单位：人
+unit:person
+毕业生数
+
+Graduates
+招生数
+
+Entrants
+在校生数
+
+Enrolment
+一、高等教育
+Higher Education
+（一）研究生
+Postgraduates*
+578045
+806103
+2639561
+博
+士
+Doctor´s Degree
+58032
+83878
+361997
+硕
+士
+Master´s Degree
+520013
+722225
+2277564
+（二）普通本专科
+Undergraduate in Regular HEIs
+7358287
+7614893
+27535869
+本
+科
+Normal Courses
+3841839
+4107534
+16486320
+专
+科
+Short-cycle Courses
+3516448
+3507359
+11049549
+（三）成人本专科
+Undergraduate in Adult HEIs
+2470370
+2175302
+5441429
+本
+科
+Normal Courses
+1091226
+1023981
+2589809
+专
+科
+Short-cycle Courses
+1379144
+1151321
+2851620
+（四）网络本专科生
+Web-based Undergraduates
+1777905
+2861143
+7359267
+本
+科
+Normal Courses
+659559
+993253
+2587338
+专
+科
+Short-cycle Courses
+1118346
+1867890
+4771929
+二、中等教育
+Secondary Education
+26866428
+29297060
+84257502
+（一）高中阶段教育
+Senior Secondary Education
+12765032
+13824851
+39709871
+1.
+高中
+Senior Secondary Schools
+7796262
+8000548
+23784903
+普通高中
+Regular Senior Secondary Schools
+7757292
+8000548
+23745484
+完全中学
+Combined Secondary Schools
+2372222
+2477207
+7322134
+高级中学
+Regular High Schools
+5125357
+5169156
+15472730
+十二年一贯制学校
+12-Year Schools
+259713
+354185
+950620
+成人高中
+Adult High Schools
+38970
+—
+39419
+2.
+中等职业教育
+Secondary Vocational Education
+4968770
+5824303
+15924968
+普通中专
+Regular Specialized Secondary Schools
+2169933
+2462485
+7129894
+成人中专
+Adult Specialized Secondary Schools
+604125
+568771
+1272446
+职业高中
+Vocational High Schools
+1289923
+1483979
+4140553
+技工学校
+Skilled Workers Schools
+904789
+1309068
+3382075
+（二）初中阶段教育
+Junior Secondary Education
+14101396
+15472209
+44547631
+1.
+初中
+Junior Secondary Schools
+13974699
+15472209
+44420630
+初级中学
+Regular Junior Secondary Schools
+9978057
+10760883
+31215383
+九年一贯制学校
+9-Year Schools
+1916050
+2378247
+6585126
+十二年一贯制学校
+12-Year Schools
+307082
+398065
+1075624
+完全中学
+Combined Secondary Schools
+1772477
+1934058
+5541759
+职业初中
+Vocational Junior Secondary Schools
+1033
+956
+2738
+2.
+成人初中
+Adult Junior Secondary Schools
+126697
+—
+127001
+三、初等教育
+Primary Education
+16504019
+17665544
+101691216
+（一）普通小学
+Regular Primary Schools
+15658999
+17665544
+100936980
+小学
+Primary Schools
+13843045
+15688419
+89460245
+九年一贯制学校
+9-Year Schools
+1645350
+1787919
+10384335
+十二年一贯制学校
+12-Year Schools
+170604
+189206
+1092400
+（二）成人小学
+Adult Primary Schools
+845020
+—
+754236
+其中：扫盲班
+of Which: Literacy Classes
+282673
+—
+304043
+四、工读学校
+Correctional Work-Study Schools
+3311
+3187
+6048
+五、特殊教育
+Special Education Schools
+69401
+110843
+578826
+六、学前教育
+Pre-school Education Institutions
+16526663
+19379530
+46001393
+注：1.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中;
+2.
+特殊教育学生数中包括义务教育阶段随班就读的学生、其他学校附设特教班
+;
+*.2017
+年起，研究生招生、在校生指标内涵发生变化。招生包含全日制和非全日制研究生；在校生、授予学位数
+包含全日制、非全日制研究生和在职人员攻读硕士学位学生。下同。
+Note:1.Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level,
+2.Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+*.From 2017, the indicators meaning of entrants and enrollment of postgraduate students have changed. The number of entrants includes full-time and part-time postgraduate students. The number of Master's and Doctor's Degree awarded includes full-time, part-time postgraduate students and on-the-job students.  Same as below.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20180808_344698", "html","moe-detail-page-set");
+收藏
+（责任编辑：谢沂楠）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_qg/201708/t20170823_311668.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=2147442146; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend .font5{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font6{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font7{color:windowtext;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font8{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font9{color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:10.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;text-align:general;vertical-align:middle;border:none;white-space:nowrap;} .TRS_PreAppend .xl78{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl79{color:windowtext;font-size:12.0pt;font-family:宋体;} .TRS_PreAppend .xl80{color:windowtext;font-size:12.0pt;font-family:宋体;text-align:center;} .TRS_PreAppend .xl81{color:windowtext;text-align:right;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl82{color:windowtext;text-align:right;border-top:.5pt solid windowtext;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl83{color:windowtext;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl84{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl85{color:windowtext;text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl86{color:windowtext;font-family:宋体;background:white;} .TRS_PreAppend .xl87{color:windowtext;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl88{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:.5pt solid windowtext;} .TRS_PreAppend .xl89{color:windowtext;font-family:宋体;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl90{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl91{color:windowtext;text-align:center;border-top:1.0pt solid windowtext;border-right:none;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;white-space:normal;} .TRS_PreAppend .xl92{color:windowtext;font-family:宋体;} .TRS_PreAppend .xl93{color:windowtext;font-family:楷体_GB2312, monospace;} .TRS_PreAppend .xl94{color:windowtext;text-align:left;background:white;white-space:normal;} .TRS_PreAppend .xl95{color:windowtext;font-family:宋体;text-align:right;} .TRS_PreAppend .xl96{color:windowtext;text-align:right;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl97{border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend .xl98{color:windowtext;text-align:left;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl99{color:windowtext;text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl100{text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl101{text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;display:none;}
+单位：人
+unit:person
+毕业生数
+
+Graduates
+招生数
+
+Entrants
+在校生数
+
+Enrolment
+一、高等教育
+Higher Education
+（一）研究生
+Postgraduates
+563938
+667064
+1981051
+博
+士
+Doctor´s Degree
+55011
+77252
+342027
+硕
+士
+Master´s Degree
+508927
+589812
+1639024
+（二）普通本专科
+Undergraduate in Regular HEIs
+7041800
+7486110
+26958433
+本
+科
+Normal Courses
+3743680
+4054007
+16129535
+专
+科
+Short-cycle Courses
+3298120
+3432103
+10828898
+（三）成人本专科
+Undergraduate in Adult HEIs
+2444650
+2112290
+5843883
+本
+科
+Normal Courses
+1021846
+969387
+2686619
+专
+科
+Short-cycle Courses
+1422804
+1142903
+3157264
+（四）其他各类高等学历教育
+Students Enrolled in Other Formal Programs
+1.
+在职人员攻读硕士学位
+Master´s Degree Programs for On-the-job Personnel
+—
+129438
+581843
+2.
+网络本专科生
+Web-based Undergraduates
+1874787
+2296088
+6449329
+本
+科
+Normal Courses
+700906
+847568
+2339270
+专
+科
+Short-cycle Courses
+1173881
+1448520
+4110059
+二、中等教育
+Secondary Education
+27856325
+28834280
+83274403
+（一）高中阶段教育
+Senior Secondary Education
+13306142
+13962617
+39700588
+1.
+高中
+Senior Secondary Schools
+7969902
+8029206
+23710461
+普通高中
+Regular Senior Secondary Schools
+7923500
+8029206
+23666465
+完全中学
+Combined Secondary Schools
+2440700
+2510805
+7341339
+高级中学
+Regular High Schools
+5247743
+5198827
+15469418
+十二年一贯制学校
+12-Year Schools
+235057
+319574
+855708
+成人高中
+Adult High Schools
+46402
+—
+43996
+2.
+中等职业教育
+Secondary Vocational Education
+5336240
+5933411
+15990127
+普通中专
+Regular Specialized Secondary Schools
+2290235
+2551840
+7181209
+成人中专
+Adult Specialized Secondary Schools
+696629
+595252
+1411680
+职业高中
+Vocational High Schools
+1418708
+1514336
+4165715
+技工学校
+Skilled Workers Schools
+930668
+1271983
+3231523
+（二）初中阶段教育
+Junior Secondary Education
+14550183
+14871663
+43573815
+1.
+初中
+Junior Secondary Schools
+14238679
+14871663
+43293684
+初级中学
+Regular Junior Secondary Schools
+10260439
+10543289
+30882372
+九年一贯制学校
+9-Year Schools
+1839773
+2128330
+6011849
+十二年一贯制学校
+12-Year Schools
+280519
+335815
+943819
+完全中学
+Combined Secondary Schools
+1856446
+1862834
+5451910
+职业初中
+Vocational Junior Secondary Schools
+1502
+1395
+3734
+2.
+成人初中
+Adult Junior Secondary Schools
+311504
+—
+280131
+三、初等教育
+Primary Education
+15932974
+17524659
+99962809
+（一）普通小学
+Regular Primary Schools
+15074466
+17524659
+99130126
+小学
+Primary Schools
+13390494
+15687123
+88468544
+九年一贯制学校
+9-Year Schools
+1527985
+1676992
+9703690
+十二年一贯制学校
+12-Year Schools
+155987
+160544
+957892
+（二）成人小学
+Adult Primary Schools
+858508
+—
+832683
+其中：扫盲班
+of Which: Literacy Classes
+331150
+—
+334201
+四、工读学校
+Correctional Work-Study Schools
+3298
+3295
+7181
+五、特殊教育
+Special Education Schools
+59164
+91521
+491740
+六、学前教育
+Pre-school Education Institutions
+16231822
+19220862
+44138630
+注：1.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中;
+2.特殊教育学生数中包括义务教育阶段随班就读的学生、其他学校附设特教班。
+Note:1.Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level,
+2.Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20170823_311668", "html","moe-detail-page-set");
+收藏
+（责任编辑：谢沂楠）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_qg/201610/t20161012_284510.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=2147441443; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .font0{color:#000000;font-size:10.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;} .font1{color:#000000;font-size:10.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;} .font2{color:#000000;font-size:10.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;} .font3{color:#000000;font-size:10.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;} .font4{color:#000000;font-size:10.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;} .font5{color:#000000;font-size:10.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;} .font8{color:#000000;font-size:10.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;} td{color:#000000;font-size:10.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et7{color:#000000;font-size:12.0pt;font-family:Arial;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et8{color:#000000;font-size:12.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et9{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et10{color:#000000;font-size:12.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et11{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et12{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et13{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et14{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et15{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et16{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et17{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et18{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et16{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et20{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et21{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et22{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et23{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;} .et24{color:#000000;font-size:12.0pt;font-family:Times New Roman;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;}
+单位：人
+unit:person
+毕业生数
+Graduates
+招生数
+Entrants
+在校生数
+Enrolment
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+551522
+645055
+1911406
+博   士 Doctor´s Degree
+53778
+74416
+326687
+硕   士 Master´s Degree
+497744
+570639
+1584719
+（二）普通本专科 Undergraduate in Regular HEIs
+6808866
+7378495
+26252968
+本    科 Normal Courses
+3585940
+3894184
+15766848
+专    科 Short-cycle Courses
+3222926
+3484311
+10486120
+（三）成人本专科 Undergraduate in Adult HEIs
+2362593
+2367455
+6359352
+本    科 Normal Courses
+962495
+1014675
+2793354
+专    科 Short-cycle Courses
+1400098
+1352780
+3565998
+（四）其他各类高等学历教育 Students Enrolled in Other Formal Programs
+1. 在职人员攻读硕士学位 Master´s Degree Programs for On-the-job Personnel
+127858
+587508
+2. 网络本专科生 Web-based Undergraduates
+1799757
+2034032
+6284671
+本    科 Normal Courses
+649086
+748660
+2294807
+专    科 Short-cycle Courses
+1150671
+1285372
+3989864
+二、中等教育  Secondary Education
+28259773
+28088798
+83833441
+（一）高中阶段教育  Senior Secondary Education
+13717336
+13978556
+40376929
+1. 高中  Senior Secondary Schools
+8038503
+7966066
+23809905
+普通高中  Regular Senior Secondary Schools
+7976535
+7966066
+23743992
+完全中学  Combined Secondary Schools
+2474229
+2514294
+7423958
+高级中学  Regular High Schools
+5280238
+5169187
+15558531
+十二年一贯制学校  12-Year Schools
+222068
+282585
+761503
+成人高中 Adult High Schools
+61968
+65913
+2. 中等职业教育  Secondary Vocational Education
+5678833
+6012490
+16567024
+普通中专  Regular Specialized Secondary Schools
+2367455
+2599455
+7327076
+成人中专  Adult Specialized Secondary Schools
+805105
+646759
+1626741
+职业高中  Vocational High Schools
+1560094
+1551960
+4398597
+技工学校  Skilled Workers Schools
+946179
+1214316
+3214610
+（二）初中阶段教育  Junior Secondary Education
+14542437
+14110242
+43456512
+1. 初中  Junior Secondary Schools
+14175941
+14110242
+43119500
+初级中学  Regular Junior Secondary Schools
+10293001
+10119141
+31033176
+九年一贯制学校  9-Year Schools
+1754445
+1917472
+5696085
+十二年一贯制学校  12-Year Schools
+247610
+276595
+827060
+完全中学  Combined Secondary Schools
+1878861
+1795261
+5558098
+职业初中  Vocational Junior Secondary Schools
+2024
+1773
+5081
+2. 成人初中  Adult Junior Secondary Schools
+366496
+337012
+三、初等教育 Primary Education
+15331734
+17290429
+97869989
+（一）普通小学 Regular Primary Schools
+14372517
+17290429
+96921831
+小学 Primary Schools
+12833772
+15549242
+86931676
+九年一贯制学校 9-Year Schools
+1406554
+1591648
+9132151
+十二年一贯制学校 12-Year Schools
+132191
+149539
+858004
+（二）成人小学 Adult Primary Schools
+959217
+948158
+其中：扫盲班 of Which: Literacy Classes
+447541
+474805
+四、工读学校 Correctional Work-Study Schools
+4141
+3811
+7920
+五、特殊教育 Special Education Schools
+52899
+83314
+442223
+六、学前教育 Pre-school Education Institutions
+15902605
+20088467
+42648284
+注：1.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中;
+2.特殊教育学生数中包括义务教育阶段随班就读的学生、其他学校附设特教班。
+Note:1.Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level,
+2.Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20161012_284510", "html","moe-detail-page-set");
+收藏
+（责任编辑：于淼）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_qg/201509/t20150902_205106.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=2147439806; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+.TRS_PreAppend .TRS_PreAppend .font5{color:black;font-size:7.5pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend .font6{color:black;font-size:7.5pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font7{color:black;font-size:7.5pt;font-weight:400;font-style:normal;text-decoration:none;font-family:"Times New Roman", serif;} .TRS_PreAppend .font8{color:black;font-size:7.5pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} .TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:11.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;text-align:general;vertical-align:bottom;border:none;white-space:nowrap;} .TRS_PreAppend .xl65{font-size:7.5pt;text-align:center;vertical-align:middle;border-top:1.5pt solid windowtext;border-right:none;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl66{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:center;vertical-align:middle;border-top:none;border-right:none;border-bottom:1.0pt solid windowtext;border-left:none;white-space:normal;} .TRS_PreAppend .xl67{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:center;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:none;white-space:normal;} .TRS_PreAppend .xl68{font-size:7.5pt;text-align:center;vertical-align:middle;border-top:1.5pt solid windowtext;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl69{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:right;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl70{font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl71{font-size:7.5pt;text-align:right;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl72{font-size:7.5pt;text-align:right;vertical-align:middle;} .TRS_PreAppend .xl73{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:right;vertical-align:middle;} .TRS_PreAppend .xl74{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:right;vertical-align:middle;border-top:none;border-right:none;border-bottom:none;border-left:1.0pt solid windowtext;} .TRS_PreAppend .xl75{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:right;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:1.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl76{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:right;vertical-align:middle;border-top:none;border-right:none;border-bottom:1.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl77{font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:27px;} .TRS_PreAppend .xl78{font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:108px;} .TRS_PreAppend .xl79{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl80{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;} .TRS_PreAppend .xl81{font-size:7.5pt;font-family:"Times New Roman", serif;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;white-space:normal;padding-left:108px;} .TRS_PreAppend .xl82{font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:135px;} .TRS_PreAppend .xl83{color:black;font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl84{color:black;font-size:7.5pt;font-family:"Times New Roman", serif;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl85{color:black;font-size:7.5pt;font-family:"Times New Roman", serif;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:108px;} .TRS_PreAppend .xl86{color:black;font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:189px;} .TRS_PreAppend .xl87{color:black;font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:216px;} .TRS_PreAppend .xl88{color:black;font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:27px;} .TRS_PreAppend .xl89{color:black;font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;padding-left:135px;} .TRS_PreAppend .xl90{color:black;font-size:7.5pt;text-align:left;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:1.5pt solid windowtext;border-left:none;} .TRS_PreAppend .xl91{font-size:7.5pt;text-align:center;vertical-align:middle;border-top:1.5pt solid windowtext;border-right:1.0pt solid windowtext;border-bottom:none;border-left:none;} .TRS_PreAppend .xl92{font-size:7.5pt;text-align:center;vertical-align:middle;border-top:none;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;border-left:none;} .TRS_PreAppend ruby{ruby-align:left;} .TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;display:none;}
+单位：人
+unit: person
+毕业生数
+招生数
+在校生数
+Graduates
+Entrants
+Enrolment
+一、高等教育
+Higher Education
+（一）研究生
+Postgraduates
+535863
+621323
+1847689
+博
+士
+Doctor´s Degree
+53653
+72634
+312676
+硕
+士
+Master´s Degree
+482210
+548689
+1535013
+（二）普通本专科
+Undergraduate in Regular HEIs
+6593671
+7213987
+25476999
+本
+科
+Normal Courses
+3413787
+3834152
+15410653
+专
+科
+Short-cycle Courses
+3179884
+3379835
+10066346
+（三）成人本专科
+Undergraduate in Adult HEIs
+2212329
+2656040
+6531212
+本
+科
+Normal Courses
+899050
+1102409
+2797917
+专
+科
+Short-cycle Courses
+1313279
+1553631
+3733295
+（四）其他各类高等学历教育
+Students Enrolled in Other Formal Programs
+1.
+在职人员攻读硕士学位
+Master´s Degree Programs for On-the-job Personnel
+162374
+596086
+2.
+网络本专科生
+Web-based Undergraduates
+1661306
+2061852
+6314472
+本
+科
+Normal Courses
+586272
+781445
+2287010
+专
+科
+Short-cycle Courses
+1075034
+1280407
+4027462
+二、中等教育
+Secondary Education
+28928894
+28641793
+86015438
+（一）高中阶段教育
+Senior Secondary Education
+14349208
+14163578
+41706510
+1.
+高中
+Senior Secondary Schools
+8119745
+7965960
+24153687
+普通高中
+Regular Senior Secondary Schools
+7996189
+7965960
+24004723
+完全中学
+Combined Secondary Schools
+2514209
+2530020
+7576658
+高级中学
+Regular High Schools
+5281303
+5186359
+15735711
+十二年一贯制学校
+12-year Schools
+200677
+249581
+692354
+成人高中
+Adult High Schools
+123556
+148964
+2.
+中等职业教育
+Secondary Vocational Education
+6229463
+6197618
+17552823
+普通中专
+Regular Specialized Secondary Schools
+2477321
+2596594
+7491366
+成人中专
+Adult Specialized Secondary Schools
+900470
+741601
+1943596
+职业高中
+Vocational High Schools
+1783728
+1615358
+4728165
+技工学校
+Skilled Workers Schools
+1067944
+1244065
+3389696
+（二）初中阶段教育
+Junior Secondary Education
+14579686
+14478215
+44308928
+1.
+初中
+Junior Secondary Schools
+14135127
+14478215
+43846297
+初级中学
+Regular Junior Secondary Schools
+10296180
+10452499
+31720045
+九年一贯制学校
+9-year Schools
+1681372
+1877028
+5524430
+十二年一贯制学校
+12-year Schools
+219881
+259380
+755092
+完全中学
+Combined Secondary Schools
+1934473
+1886935
+5839005
+职业初中
+Vocational Junior Secondary Schools
+3221
+2373
+7725
+2.
+成人初中
+Adult Junior Secondary Schools
+444559
+462631
+三、初等教育
+Primary Education
+15882235
+16584245
+95674926
+（一）普通小学
+Regular Primary Schools
+14766280
+16584245
+94510651
+小学
+Primary Schools
+13265761
+14993164
+85260959
+九年一贯制学校
+9-year Schools
+1376765
+1454522
+8485902
+十二年一贯制学校
+12-year Schools
+123754
+136559
+763790
+（二）成人小学
+Adult Primary Schools
+1115955
+1164275
+其中：扫盲班
+of Which: Literacy Classes
+441537
+455524
+四、工读学校
+Correctional Work-Study Schools
+3000
+3528
+8494
+五、特殊教育
+Special Education Schools
+49032
+70713
+394870
+六、学前教育
+Pre-school Education Institutions
+15271571
+19877752
+40507145
+注：1.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中。
+2.特殊教育学生数中包括义务教育阶段随班就读的学生、其他学校附设特教班。
+Note:1. Number of the students in Combined Secondary Schools, 9-year Schools,12-year Schools are classified by educational level;
+2. Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20150902_205106", "html","moe-detail-page-set");
+收藏
+（责任编辑：刘乐）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8493/201412/t20141215_181593.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=8493; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+单位：人
+Unit: person
+毕业生数
+Graduates
+招生数
+Entrants
+在校生数
+Enrolment
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+513626
+611381
+1793953
+博    士 Doctor′s Degree
+53139
+70462
+298283
+硕    士 Master′s Degree
+460487
+540919
+1495670
+（二）普通本专科 Undergraduate in Regular HEIs
+6387210
+6998330
+24680726
+本    科 Normal Courses
+3199716
+3814331
+14944353
+专    科 Short-cycle Courses
+3187494
+3183999
+9736373
+（三）成人本专科 Undergraduate in Adult HEIs
+1997729
+2564934
+6264145
+本    科 Normal Courses
+811159
+1038158
+2654596
+专    科 Short-cycle Courses
+1186570
+1526776
+3609549
+（四）其他各类高等学历教育 Students Enrolled in Other Formal Programs
+1. 在职人员攻读硕士学位 Master′s Degree Programs for On-the-job Personnel
+167576
+558730
+2. 网络本专科生 Web-based Undergraduates
+1560762
+2200729
+6146406
+本    科 Normal Courses
+536702
+804378
+2175100
+专    科 Short-cycle Courses
+1024060
+1396351
+3971306
+二、中等教育  Secondary Education
+30887540
+29935409
+88582754
+（一）高中阶段教育  Senior Secondary Education
+14838197
+14974542
+43699228
+1. 高中  Senior Secondary Schools
+8093801
+8226961
+24469522
+普通高中  Regular Senior Secondary Schools
+7989789
+8226961
+24358817
+完全中学  Combined Secondary Schools
+2551466
+2689932
+7914286
+高级中学  Regular High Schools
+5242878
+5308309
+15814322
+十二年一贯制学校  12-Year Schools
+195445
+228720
+630209
+成人高中 Adult High Schools
+104012
+110705
+2. 中等职业教育  Secondary Vocational Education
+6744396
+6747581
+19229706
+普通中专  Regular Specialized Secondary Schools
+2652082
+2714716
+7721842
+成人中专  Adult Specialized Secondary Schools
+878323
+862591
+2299806
+职业高中  Vocational High Schools
+2045182
+1835317
+5342194
+技工学校  Skilled Workers Schools
+1168809
+1334957
+3865864
+（二）初中阶段教育  Junior Secondary Education
+16049343
+14960867
+44883526
+1. 初中  Junior Secondary Schools
+15615452
+14960867
+44401248
+初级中学  Regular Junior Secondary Schools
+11559429
+10863869
+32340393
+九年一贯制学校  9-Year Schools
+1760777
+1804465
+5256281
+十二年一贯制学校  12-Year Schools
+206450
+231841
+666538
+完全中学  Combined Secondary Schools
+2081587
+2057158
+6127520
+职业初中  Vocational Junior Secondary Schools
+7209
+3534
+10516
+2. 成人初中  Adult Junior Secondary Schools
+433891
+482278
+三、初等教育 Primary Education
+16988501
+16953556
+94848050
+（一）普通小学 Regular Primary Schools
+15810583
+16953556
+93605487
+小学 Primary Schools
+14315683
+15451429
+84998824
+九年一贯制学校 9-Year Schools
+1372707
+1381950
+7920436
+十二年一贯制学校 12-Year Schools
+122193
+120177
+686227
+（二）成人小学 Adult Primary Schools
+1177918
+1242563
+其中：扫盲班 of Which: Literacy Classes
+505877
+619228
+四、工读学校 Correctional Work-Study Schools
+3596
+3891
+9307
+五、特殊教育 Special Education Schools
+50739
+65977
+368103
+六、学前教育 Pre-school Education Institutions
+14917314
+19700271
+38946903
+注：1.完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中；
+2.特殊教育学生数中包括义务教育阶段随班就读的学生、其他学校附设特教班。
+Note:1.Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level;
+2.Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20141215_181593", "html","moe-detail-page-set");
+收藏
+（责任编辑：任巍）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/s7567/201309/t20130904_156896.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=7567; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+Number of Students of Formal Education by Type and Level
+/* Generator: eWebEditor */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph;font-size:10.5pt;font-family:"Times New Roman","serif";} .MsoChpDefault {font-size:10.0pt;} div.WordSection1 {page:WordSection1;}
+单位：人
+Unit: person
+毕业生数
+Graduates
+招生数
+Entrants
+在校生数
+Enrolment
+一、高等教育  Higher Education
+（一）研究生  Postgraduates
+486455
+589673
+1719818
+博  士  Doctor′s Degree
+51713
+68370
+283810
+硕  士  Master′s Degree
+434742
+521303
+1436008
+（二）普通本专科  Undergraduate in Regular HEIs
+6247338
+6888336
+23913155
+本  科  Normal Courses
+3038473
+3740574
+14270888
+专  科  Short-cycle Courses
+3208865
+3147762
+9642267
+（三）成人本专科  Undergraduate in Adult HEIs
+1954357
+2439551
+5831123
+本  科  Normal Courses
+801015
+984817
+2475495
+专  科  Short-cycle Courses
+1153342
+1454734
+3355628
+（四）其他各类高等学历教育  Students Enrolled in Other Formal Programs
+1. 在职人员攻读硕士学位  Master′s Degree Programs for on-the-job personnel
+140629
+489857
+2. 网络本专科生  Web-based Undergraduates
+1360870
+1964468
+5704112
+本  科  Normal Courses
+477949
+696698
+2002698
+专  科  Short-cycle Courses
+882921
+1267770
+3701414
+二、中等教育  Secondary Education
+32020579
+31695120
+94214196
+（一）高中阶段教育  Senior Secondary Education
+14780256
+15987420
+45952782
+1. 高中  Senior Secondary Schools
+8031310
+8446071
+24815911
+普通高中  Regular Senior Secondary Schools
+7915046
+8446071
+24671712
+完全中学  Combined Secondary Schools
+2613879
+2878240
+8278864
+高级中学  Regular High Schools
+5119686
+5348540
+15788100
+十二年一贯制学校  12-Year Schools
+181481
+219291
+604748
+成人高中 Adult High Schools
+116264
+144199
+2. 中等职业教育  Secondary Vocational Education
+6748946
+7541349
+21136871
+普通中专  Regular Specialized Secondary Schools
+2653135
+2773643
+8125608
+成人中专  Adult Specialized Secondary Schools
+716307
+1058110
+2542747
+职业高中  Vocational High Schools
+2174398
+2139032
+6230465
+技工学校  Skilled Workers Schools
+1205106
+1570564
+4238051
+（二）初中阶段教育  Junior Secondary Education
+17240323
+15707700
+48261414
+1. 初中  Junior Secondary Schools
+16607751
+15707700
+47630607
+初级中学  Regular Junior Secondary Schools
+12382897
+11484894
+35032212
+九年一贯制学校  9-Year Schools
+1801127
+1822554
+5402756
+十二年一贯制学校  12-Year Schools
+197499
+218920
+633749
+完全中学  Combined Secondary Schools
+2216885
+2176027
+6543086
+职业初中  Vocational Junior Secondary Schools
+9343
+5305
+18804
+2. 成人初中  Adult Junior Secondary Schools
+632572
+630807
+三、初等教育 Primary Education
+18007271
+17146640
+98602286
+（一）普通小学 Regular Primary Schools
+16415565
+17146640
+96958985
+小学 Primary Schools
+14902844
+15697392
+88527616
+九年一贯制学校 9-Year Schools
+1398080
+1342630
+7778434
+十二年一贯制学校 12-Year Schools
+114641
+106618
+652935
+（二）成人小学 Adult Primary Schools
+1591706
+1643301
+其中：扫盲班 of Which: Literacy Classes
+585749
+689067
+四、工读学校 Correctional Work-Study Schools
+3653
+4547
+10640
+五、特殊教育 Special Education Schools
+48590
+65699
+378751
+六、学前教育 Pre-school Education Institutions
+14335717
+19119154
+36857624
+注：1．完全中学、九年一贯制学校和十二年一贯制学校的学生数按教育层次分别计入对应教育阶段的学生数中。
+2．特殊教育学生数中包括普通中小学随班就读的学生。
+Note:1. Number of the students in Combined Secondary Schools, 9-Year Schools,12-Year Schools are classified by educational level.
+2. Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20130904_156896", "html","moe-detail-page-set");
+收藏
+（责任编辑：赵亚楠）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/s7382/201305/t20130529_152564.html
+全国各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=7382; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+全国各级各类学历教育学生情况
+Students of Formal Education of All Types and Levels
+/* Generator: eWebEditor */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph;font-size:10.5pt;font-family:"Times New Roman","serif";} p.MsoHeader, li.MsoHeader, div.MsoHeader {margin:0cm;margin-bottom:.0001pt;text-align:center;tab-stops:center 207.65pt right 415.3pt;layout-grid-mode:char;border:none;padding:0cm;font-size:9.0pt;font-family:"Times New Roman","serif";} p.MsoFooter, li.MsoFooter, div.MsoFooter {margin:0cm;margin-bottom:.0001pt;tab-stops:center 207.65pt right 415.3pt;layout-grid-mode:char;font-size:9.0pt;font-family:"Times New Roman","serif";} span.Char {font-family:"Times New Roman","serif";} span.Char0 {font-family:"Times New Roman","serif";} div.Section1 {page:Section1;}
+毕业生数（人）  Graduates
+招生数（人）     Intakes
+在校生数（人）
+Total In-school Students
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+429994
+560168
+1645845
+博  士 Doctor′s Degree
+50289
+65559
+271261
+硕  士 Master′s Degree
+379705
+494609
+1374584
+（二）普通本专科 Undergraduates in Regular HEIs
+6081565
+6815009
+23085078
+本  科 Normal Courses
+2796229
+3566411
+13496577
+专  科 Short-cycle Courses
+3285336
+3248598
+9588501
+（三）成人本专科 Undergraduates in Adult HEIs
+1906640
+2185141
+5474962
+本  科 Normal Courses
+755402
+897241
+2336132
+专  科 Short-cycle Courses
+1151238
+1287900
+3138830
+（四）其他各类高等学历教育 Students Enrolled in Other Formal Programs
+1. 在职人员攻读硕士学位
+134061
+461693
+Master′s Degree Programs for on-the-job personnel
+2. 网络本专科生 Web-based Undergraduates
+1299253
+1871519
+4924833
+本  科 Normal Courses
+460149
+643993
+1754760
+专  科 Short-cycle Courses
+839104
+1227526
+3170073
+二、中等教育 Secondary Education
+32665962
+32993759
+98078540
+（一）高中阶段教育 Senior Secondary
+14702827
+16646463
+46866060
+1. 高中 Senior Secondary Schools
+8099367
+8507799
+24812760
+普通高中 Regular Schools
+7877401
+8507799
+24548227
+完全中学 Complete Sec. Schools
+2618833
+2950612
+8391776
+高级中学 Senior Middle Schools
+5088191
+5354128
+15591233
+十二年一贯制学校 12-year Sec. Schools
+170377
+203059
+565218
+成人高中 Adult Schools
+221966
+264533
+2. 中等职业教育 Secondary Vocational Schools
+6603460
+8138664
+22053300
+普通中专 Regular Specialized Sec. Schools
+2702302
+2995725
+8552071
+成人中专 Adult SSSs
+530942
+1039639
+2387275
+职业高中 Vocational High Schools
+2178008
+2464262
+6809722
+技工学校 Skilled Workers Schools
+1192208
+1639038
+4304232
+（二）初中阶段教育 Junior Secondary Education
+17963135
+16347296
+51212480
+1. 初中 Regular Junior Secondary Schools
+17366786
+16347296
+50668024
+初级中学 Junior Secondary Schools
+13097178
+12079662
+37697057
+九年一贯制学校 9-Year Sec. Schools
+1790288
+1824936
+5513859
+十二年一贯制学校 12-Year Sec. Schools
+185730
+196210
+586326
+完全中学 Complete Sec. Schools
+2281767
+2239280
+6844816
+职业初中 Junior Vocational Sec. Schools
+11823
+7208
+25966
+2. 成人初中 Adult JSSs
+596349
+544456
+三、初等教育 Primary Education
+18417800
+17367980
+100942847
+（一）普通小学 Regular Primary Schools
+16628054
+17367980
+99263674
+小学 Primary Schools
+15201478
+15989257
+91115452
+九年一贯制学校 9-Year Sec. Schools
+1326111
+1282216
+7565579
+十二年一贯制学校 12-Year Sec. Schools
+100465
+96507
+582643
+（二）成人小学 Adult Primary Schools
+1789746
+1679173
+其中：扫盲班 Of Which: Literacy Classes
+818150
+748890
+四、工读学校 Correctional Work-Study Schools
+4378
+5664
+8976
+五、特殊教育 Special Education Schools
+44194
+64086
+398736
+六、学前教育 Pre-school Education Institutions
+11847124
+18273104
+34244456
+注：特殊教育学生数中包括普通中小学随班就读的学生。
+Note: Number of the students followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20130529_152564", "html","moe-detail-page-set");
+来源：教育部收藏
+（责任编辑：王雪）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/s6200/201201/t20120117_129518.html
+各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=6200; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+各级各类学历教育学生情况
+/* Generator: eWebEditor */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:inter-ideograph;font-size:10.5pt;font-family:"Times New Roman";} div.Section1 {page:Section1;}
+毕业生数(人)Groduates
+招生数(人)New Entrants
+在校生数(人)Total Enrolment
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+383600
+538177
+1538416
+博士
+48987
+63762
+258950
+硕士
+334613
+474415
+1279466
+（二）普通本专科 Undergraduates in Regular HEIs
+5754245
+6617551
+22317929
+本科
+2590535
+3512563
+12656132
+专科
+3163710
+3104988
+9661797
+（三）成人本专科 Undergraduates in Adult HEIs
+1972873
+2084259
+5360388
+本科
+803915
+853319
+2250457
+专科
+1168958
+1230940
+3109931
+（四）其他各类高等学历教育Students Enrolled in Other Formal Programs
+1、在职人员攻读博士、硕士学位 Employed People Enrolled in Doctoral and Master's Degree Programs
+124871
+420294
+2、网络本专科生 Web-based Undergraduates
+1105529
+1663655
+4531443
+本科
+422543
+555789
+1640403
+专科
+682986
+1107866
+2891040
+3、其他
+二、中等教育 Secondary Education
+32757101
+34209602
+100129290
+（一）高中阶段教育 Senior Secondary
+14626302
+17043787
+46705958
+1、高中 Senior Secondary Schools
+8034528
+8362359
+24388321
+普通高中 Regular Schools
+7944335
+8362359
+24273351
+成人高中 Adult Schools
+90193
+114970
+2、中等职业教育 Secondary Vocational Schools
+6591774
+8681428
+22317637
+普通中专 Regular Specialized Sec. Schools
+2646434
+3166119
+8777141
+成人中专 Adult SSSs
+488061
+1161091
+2123974
+职业高中 Vocational High Schools
+2302029
+2786747
+7263332
+技工学校 Skilled Workers Schools
+1155250
+1567471
+4153190
+（二）初中阶段教育 Junior Secondary Education
+18130799
+17165815
+53423332
+1、普通初中 Regular Junior Secondary Schools
+17485714
+17154930
+52759127
+2、职业初中 Vocational JSSs
+17794
+10885
+34173
+3、成人初中 Adult JSSs
+627291
+630032
+三、初等教育 Primary Education
+19279332
+16917007
+101353616
+（一）普通小学 Regular Primary Schools
+17396364
+16917007
+99407043
+（二）成人小学 Adult Primary Schools
+1882968
+1946573
+其中：扫盲班 Of Which: Literacy Classes
+902594
+1080807
+四、工读学校 Correctional Work-Study Schools
+3894
+4047
+10735
+五、特殊教育 Special Education Schools
+58941
+64869
+425613
+六、学前教育 Pre-school Education Institutions
+10575502
+17003851
+29766695
+注：特殊教育学生数中包括普通中小学随班就读的学生。
+Note:Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20120117_129518", "html","moe-detail-page-set");
+收藏
+（责任编辑：傅佩佩）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/s4958/s4959/201012/t20101229_113484.html
+全国各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=4959; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+全国各级各类学历教育学生情况
+/* Generator: eWebEditor */ .font5 {color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;} td {padding-top:1px;padding-right:1px;padding-left:1px;color:windowtext;font-size:12.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;text-align:general;vertical-align:middle;border:none;white-space:nowrap;} .xl22 {font-size:10.0pt;text-align:center;border:.5pt solid windowtext;white-space:normal;} .xl23 {font-size:10.0pt;text-align:right;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .xl24 {font-size:10.0pt;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .xl25 {font-size:10.0pt;text-align:right;} .xl26 {font-size:10.0pt;border-top:none;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:none;} .xl27 {font-size:10.0pt;text-align:right;border-top:none;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;} .xl28 {font-size:10.0pt;font-family:楷体_GB2312, monospace;border-top:.5pt solid windowtext;border-right:none;border-bottom:none;border-left:none;} .xl29 {font-size:10.0pt;text-align:center;border:.5pt solid windowtext;} .xl30 {font-size:10.0pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .xl31 {font-size:10.0pt;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .xl32 {font-size:10.0pt;text-align:left;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;} .xl33 {font-size:10.0pt;border-top:none;border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;white-space:normal;} .xl34 {font-size:10.0pt;border-top:none;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;} .xl35 {font-size:10.0pt;font-family:楷体_GB2312, monospace;text-align:left;border-top:.5pt solid windowtext;border-right:none;border-bottom:none;border-left:.5pt solid windowtext;} .xl36 {font-size:10.0pt;font-family:楷体_GB2312, monospace;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:none;border-left:none;} .xl37 {font-size:10.0pt;font-family:"Times New Roman", serif;border-top:none;border-right:none;border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;} .xl38 {font-size:10.0pt;border-top:none;border-right:none;border-bottom:.5pt solid windowtext;border-left:none;} ruby {ruby-align:left;} rt {color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;display:none;}
+毕业生数(人)  Groduates
+招生数(人)     New Entrants
+在校生数(人) Total Enrolment
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+371273
+510953
+1404942
+博  士 Doctor's Degrees
+48658
+61911
+246319
+硕  士 Master's Degrees
+322615
+449042
+1158623
+（二）普通本专科 Undergraduates in Regular HEIs
+5311023
+6394932
+21446570
+本  科  Normal Courses
+2455359
+3261081
+11798511
+专  科  Short-cycle Courses
+2855664
+3133851
+9648059
+（三）成人本专科 Undergraduates in Adult HEIs
+1943893
+2014776
+5413513
+本  科  Normal Courses
+865421
+815795
+2256662
+专  科  Short-cycle Courses
+1078472
+1198981
+3156851
+（四）其他各类高等学历教育                                          Students Enrolled in Other Formal Programs
+1、在职人员攻读博士、硕士学位 Employed People Enrolled in Doctoral and Master's Degree Programs
+115985
+394331
+2、网络本专科生 Web-based Undergraduates
+983521
+1625687
+4172721
+本  科  Normal Courses
+405549
+551287
+1572642
+专  科  Short-cycle Courses
+577972
+1074400
+2600079
+3、其他 Others
+1113
+二、中等教育 Secondary Education
+33055924
+34924041
+101141675
+（一）高中阶段教育 Senior Secondary
+14527495
+17039518
+46244384
+1、高中 Senior Secondary Schools
+8335170
+8303384
+24457459
+普通高中 Regular Schools
+8237220
+8303384
+24342783
+成人高中 Adult Schools
+97950
+114676
+2、中等职业教育 Secondary Vocational Schools
+6192325
+8736134
+21786925
+普通中专 Regular Specialized Sec. Schools
+2415223
+3117118
+8404291
+成人中专 Adult SSSs
+389905
+868917
+1609942
+职业高中 Vocational High Schools
+2291526
+3131735
+7784240
+技工学校 Skilled Workers Schools
+1095671
+1618364
+3988452
+（二）初中阶段教育 Junior Secondary Education
+18528429
+17884523
+54897291
+1、普通初中 Regular Junior Secondary Schools
+17947254
+17863912
+54336420
+2、职业初中 Vocational JSSs
+29754
+20611
+72995
+3、成人初中 Adult JSSs
+551421
+487876
+三、初等教育 Primary Education
+20084844
+16377978
+102822860
+（一）普通小学 Regular Primary Schools
+18051997
+16377978
+100714661
+（二）成人小学 Adult Primary Schools
+2032847
+2108199
+其中：扫盲班 Of Which:Elimonate Illiteracy Classes
+957408
+1148550
+四、工读学校 Correctional Work-Study Schools
+4511
+3919
+9213
+五、特殊教育 Special Education Schools
+57423
+64018
+428125
+六、学前教育 Pre-school Education Institutions
+10406353
+15468596
+26578141
+注：特殊教育学生数中包括普通中小学随班就读的学生。
+Note:Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20101229_113484", "html","moe-detail-page-set");
+收藏
+（责任编辑：陈思怡）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
+URL: http://www.moe.gov.cn/jyb_sjzl/moe_560/s4628/s4631/201010/t20101021_109983.html
+全国各级各类学历教育学生情况 - 中华人民共和国教育部政府门户网站
+doMobile.loadStyle(["opt.moe.m","opt.moe.details.m"],"../../../../../images/");
+登录
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+搜索 无障碍浏览
+Languages
+English
+Русский
+日本語
+Deutsch
+Français
+Español
+العربية
+微言教育
+无障碍浏览
+登录 | 注册
+个人登录
+法人登录
+个人注册
+法人注册
+搜索
+首页
+var NowChannelId=4631; var pChannelId=2147438639; var channelId=2147438634; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_zzjg/" class="jg" target="_blank">机构</a></li>'); } var channelId=2147438635; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xwfb/" class="jg" target="_blank">新闻</a></li>'); } var channelId=2147438636; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_xxgk/" class="jg" target="_blank">公开</a></li>'); } document.write('<li class="swiper-slide"><a href="https://zwfw.moe.gov.cn/" target="_blank" class="jg">服务</a></li>'); var channelId=2147438638; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../../jyb_hygq/" class="jg" target="_blank">互动</a></li>'); } var channelId=2147438639; if(channelId==NowChannelId||channelId==pChannelId){ document.write('<li class="swiper-slide cur"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }else{ document.write('<li class="swiper-slide"><a href="../../../../" class="jg" target="_blank">文献</a></li>'); }
+当前位置：首页 > 文献
+全国各级各类学历教育学生情况
+毕业生数(人)  Groduates
+招生数(人)     New Entrants
+在校生数(人) Total Enrolment
+一、高等教育 Higher Education
+（一）研究生 Postgraduates
+344825
+446422
+1283046
+博士
+43759
+59764
+236617
+硕士
+301066
+386658
+1046429
+（二）普通本专科 Undergraduates in Regular HEIs
+5119498
+6076612
+20210249
+本科
+2256783
+2970601
+11042207
+专科
+2862715
+3106011
+9168042
+（三）成人本专科 Undergraduates in Adult HEIs
+1690944
+2025552
+5482949
+本科
+684506
+831362
+2352832
+专科
+1006438
+1194190
+3130117
+（四）其他各类高等学历教育                                          Students Enrolled in Other Formal Programs
+1、在职人员攻读博士、硕士学位 Employed People Enrolled in Doctoral and Master's Degree Programs
+133370
+393816
+2、网络本专科生 Web-based Undergraduates
+901522
+1472194
+3558950
+本科
+403824
+535914
+1446709
+专科
+497698
+936280
+2112241
+3、其他
+1398
+4934
+二、中等教育 Secondary Education
+33605282
+35087120
+102043595
+（一）高中阶段教育 Senior Secondary
+14260560
+16491166
+45760735
+1、高中 Senior Secondary Schools
+8453965
+8370063
+24889862
+普通高中 Regular Schools
+8360593
+8370063
+24762842
+成人高中 Adult Schools
+93372
+127020
+2、中等职业教育 Secondary Vocational Schools
+5806595
+8121103
+20870873
+普通中专 Regular Specialized Sec. Schools
+2205624
+3037844
+8172794
+成人中专 Adult SSSs
+388977
+558314
+1206459
+职业高中 Vocational High Schools
+2116323
+2906581
+7503168
+技工学校 Skilled Workers Schools
+1095671
+1618364
+3988452
+（二）初中阶段教育 Junior Secondary Education
+19344722
+18595954
+56282860
+1、普通初中 Regular Junior Secondary Schools
+18628943
+18561663
+55741542
+2、职业初中 Vocational JSSs
+50601
+34291
+108168
+3、成人初中 Adult JSSs
+665178
+433150
+三、初等教育 Primary Education
+20998339
+16957150
+105665928
+（一）普通小学 Regular Primary Schools
+18649512
+16957150
+103315122
+（二）成人小学 Adult Primary Schools
+2348827
+2350806
+其中：扫盲班 Of Which: Literacy Classes
+1150196
+1249637
+四、工读学校 Correctional Work-Study Schools
+3973
+4759
+9631
+五、特殊教育 Special Education Schools
+52035
+62409
+417440
+六、学前教育 Pre-school Education Institutions
+10404654
+14827145
+24749600
+注：特殊教育学生数中包括普通中小学随班就读的学生。
+Note:Number of the Students Followed in the Regular Primary and Middle School in the Special Education.
+左右滑动表格查看
+createContPageHTML(1, 0, "t20101021_109983", "html","moe-detail-page-set");
+收藏
+（责任编辑：傅佩佩）
+网站声明
+网站地图
+联系我们
+版权所有：中华人民共和国教育部 中文域名：教育部.政务
+京ICP备10028400号-1 京公网安备11010202007625号 网站标识码：bm05000001
+$(function(){ var isM = doMobile.isMobile(); var scW = isM ? '710px' : ($(window).width()-212); var tblCont = $('.statistics-container'); tblCont.css({'max-width':scW}); });
+
