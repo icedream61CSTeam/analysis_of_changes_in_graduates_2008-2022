@@ -1,7 +1,7 @@
 import csv
 
 # 定义输入和输出文件名
-input_file = 'output.txt'
+input_file = '../intput/output.txt'
 output_file = 'postgraduates_data.csv'
 
 # 打开并读取txt文件

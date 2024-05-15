@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 定义输入文件名
-input_file = 'postgraduates_data.csv'
+input_file = '../output/postgraduates_data.csv'
 
 # 读取CSV文件
 df = pd.read_csv(input_file)
